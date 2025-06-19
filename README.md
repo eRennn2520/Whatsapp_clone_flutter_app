@@ -1,6 +1,6 @@
 # whatsapp_app
 
-A new Flutter project.
+It is a design version of the WhatsApp application written in Flutter.
 
 ## Getting Started
 
